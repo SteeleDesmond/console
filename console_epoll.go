@@ -1,5 +1,5 @@
-//go:build linux
-// +build linux
+//go:build linux || zos
+// +build linux zos
 
 /*
    Copyright The containerd Authors.
